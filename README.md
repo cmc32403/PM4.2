@@ -3,10 +3,10 @@ Final Materials for CS3704
 
 Team
 Christina Casey (christinacasey@vt.edu)
-Katelyn Crumpacker ()
-Matt Lorenzo ()
-Emily Knoll ()
-Brooke Ritter ()
+Katelyn Crumpacker (katelync22@vt.edu)
+Matt Lorenzo (mlorenzo7@vt.edu)
+Emily Knoll (emilyk77@vt.edu)
+Brooke Ritter (britter2@vt.edu)
 
 TaskBuddy is our proposed task management solution providing users with an efficient and user-friendly platform for managing their tasks and responsibilities.
 
